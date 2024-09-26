@@ -4,7 +4,7 @@ function callback(erro) {
     if (erro) {
         // Informar ao usuário que a gravação falhou
     } else {
-        // Informar ao usuário que a gravação deu certo
+        console.log("Parabéns você conseguiu!");
     }
 }
 
